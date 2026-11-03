@@ -1,16 +1,13 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Halo,+Saya+Web+Developer!;Selamat+Datang+di+Profil+Saya" alt="Typing SVG" />
+</a>
 
-<!--
-**Satryadewa24/Satryadewa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Here are some ideas to get you started:
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radial)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=radial)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=dark)

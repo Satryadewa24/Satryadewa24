@@ -22,21 +22,23 @@ Mahasiswa S1 Teknik Elektro di Universitas Muhammadiyah Malang (UMM). Berfokus p
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 Aktivitas & Statistik GitHub
 
-<div align="center">
-  <img src="https://github.com/Satryadewa24/Satryadewa24/raw/main/github-user-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satryadewa24&show_icons=true&theme=radial&hide_border=true" alt="Statistik GitHub Satrya" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satryadewa24&layout=compact&theme=radial&hide_border=true" alt="Bahasa Pemrograman Teratas" width="48%" />
-</div>
+<!-- Animasi Ular dari branch 'output' -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Satryadewa24/Satryadewa24/output/github-user-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</p>
 
 <br />
 
-<div align="center">
+<!-- Streak Stats yang sudah terbukti bekerja -->
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satryadewa24&theme=radial&hide_border=true" alt="GitHub Streak Satrya" width="97%" />
-</div>
+</p>
+
+<br />
+
+<!-- Grafik Aktivitas Kontribusi (Alternatif bebas rate-limit) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satryadewa24&theme=react-dark&hide_border=true" alt="Activity Graph" width="97%" />
+</p>

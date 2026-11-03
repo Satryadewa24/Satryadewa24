@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi 👏! Saya Satrya Dewangga Sasmita Putra</h2>
 
 <p align="left">
@@ -25,21 +24,15 @@ Mahasiswa S1 Teknik Elektro di Universitas Muhammadiyah Malang (UMM). Berfokus p
 
 ### 📊 Aktivitas & Statistik GitHub
 
-<!-- Animasi Ular (Path dan Nama File Disesuaikan) -->
+<!-- Animasi Ular -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Satryadewa24/Satryadewa24/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
 
 <br />
 
-<!-- Streak Stats (Aktif & Berfungsi) -->
+<!-- Streak & Statistik Bahasa Teratas (Sejajar) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satryadewa24&theme=radial&hide_border=true" alt="GitHub Streak Satrya" width="97%" />
-</p>
-
-<br />
-
-<!-- Statistik Bahasa Teratas -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satryadewa24&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satryadewa24&theme=radial&hide_border=true" alt="GitHub Streak Satrya" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satryadewa24&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
